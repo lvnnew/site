@@ -1,1 +1,5 @@
-backgoud-color: #2d2c33
+* {
+  margin: 0;
+  padding: 0;
+  backgroud-color: #2d2c33;
+}
